@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+}
+
+header{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 100%;
+    border-bottom: 0px;
+}
+
+main{
+    background-color: beige;
+    margin: 0px;
+    text-align: center;
+    font-family: aboreto, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: bold;
+    
+}
+
+#contexto{
+    background-color: rgba(18, 64, 93, 0.988);
+
+}
+
+#texto{
+    background-color: rgb(10, 88, 113);
+    margin-right: 25%;
+    margin-left: 25%;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-emphasis-color: red;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 100%;
+}
